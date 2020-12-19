@@ -1,0 +1,17 @@
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\appsettings.Development.json
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\appsettings.json
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Client.deps.json
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Client.runtimeconfig.json
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Client.runtimeconfig.dev.json
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Client.dll
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Client.pdb
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.dll
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.pdb
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.csprojAssemblyReference.cache
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.AssemblyInfoInputs.cache
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.AssemblyInfo.cs
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.csproj.CoreCompileInputs.cache
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.csproj.CopyComplete
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.dll
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.pdb
+c:\20487D\AllFiles\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.genruntimeconfig.cache
